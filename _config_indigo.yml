@@ -26,7 +26,7 @@ menu:
 #     target: _blank
 
 # 你的头像url
-avatar: https://cdn.jsdelivr.net/gh/Meleuo/files@imgs/hexologo.png
+avatar: https://raw.githubusercontent.com/Meleuo/files/imgs/hexologo.png
 # avatar link
 avatar_link: /
 # 头像背景图
