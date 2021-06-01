@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>图标/全局/品牌备份</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.485641892%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#69E8FF" offset="0%"></stop>
+            <stop stop-color="#4D76DE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="图标/全局/品牌备份" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="24" height="24" rx="3"></rect>
+        <polygon id="M" fill="#FFFFFF" fill-rule="nonzero" points="8.06 19 8.06 7.68 8.18 7.68 11.14 16.2 13.82 16.2 16.8 7.68 16.92 7.68 16.92 19 19.5 19 19.5 5.12 15.38 5.12 12.58 13.32 12.46 13.32 9.74 5.12 5.5 5.12 5.5 19"></polygon>
+    </g>
+</svg>
