@@ -8,3 +8,4 @@ curl https://raw.githubusercontent.com/Meleuo/files/master/_config.yml > /app/bl
 
 echo "UPDATE CNAME"
 curl https://raw.githubusercontent.com/Meleuo/files/master/CNAME > /app/blog/source/CNAME
+curl https://raw.githubusercontent.com/Meleuo/files/master/CNAME > /app/blog/public/CNAME
